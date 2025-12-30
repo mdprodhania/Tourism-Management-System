@@ -532,7 +532,7 @@ ORDER BY created_at DESC;
    - Password: Password123
    - Confirm: Password123
 3. Click "Register Account"
-4. Should see: "Account registered successfully! Welcome John Doe!"
+4. Should see: "Account registered successfully! Welcome md masum!"
 
 ### Test Case 2: Duplicate Email
 1. Try registering with same email as before
@@ -586,4 +586,5 @@ For issues or questions, please review:
 2. Ensure all files are in correct folders
 3. Check XAMPP error logs for detailed errors
 4. Verify MySQL service is running
+
 
