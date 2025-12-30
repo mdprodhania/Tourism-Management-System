@@ -525,9 +525,9 @@ ORDER BY created_at DESC;
 ### Test Case 1: Successful Registration
 1. Go to registration page
 2. Enter: 
-   - First Name: John
-   - Last Name: Doe
-   - Email: john.doe@example.com
+   - First Name: md
+   - Last Name: masum
+   - Email: masum123@gmail.com
    - Phone: 1234567890
    - Password: Password123
    - Confirm: Password123
@@ -586,3 +586,4 @@ For issues or questions, please review:
 2. Ensure all files are in correct folders
 3. Check XAMPP error logs for detailed errors
 4. Verify MySQL service is running
+
